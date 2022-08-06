@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Samuel (Yu-Hsiang)
 
+Glad to have you here, feel free to give me any feedback!
 <!--
 **samuelTyh/samueltyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning DevOps methodology by [Kubesimplify](https://kubesimplify.github.io/live-workshops/) to facilitate my routine Data Engineering related tasks.
+- 💬 Ask me about data engineering solutions regarding AWS and GCP, and don't forget Python. Let's learning by doing!
+- 📫 How to reach me: @samueltyh on Twitter or [Linkedin](https://www.linkedin.com/in/samuel-tseng/)
+- ⚡ Fun fact: I can whistle without puckering my lips
