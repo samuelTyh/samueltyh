@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning DevOps methodology by [Kubesimplify](https://kubesimplify.github.io/live-workshops/) to facilitate my routine Data Engineering related tasks.
-- 💬 Ask me about data engineering solutions regarding AWS and GCP, and don't forget Python. Let's learning by doing!
-- 📫 How to reach me: @samueltyh on Twitter or [Linkedin](https://www.linkedin.com/in/samuel-tseng/)
-- ⚡ Fun fact: I can whistle without puckering my lips
+- 🌱 I’m currently learning DevOps methodology and Rust.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-tseng/)
