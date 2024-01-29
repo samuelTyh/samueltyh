@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning DevOps methodology, Rust and Prompt engineering.
+- 😄 I generated my Avatar via [stable Diffusion web](https://stablediffusionweb.com/#ai-image-generator)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-tseng/)
