@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning DevOps methodology and Rust.
+- 🌱 I’m currently learning DevOps methodology, Rust and Prompt engineering.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-tseng/)
