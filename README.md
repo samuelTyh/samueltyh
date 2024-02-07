@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Samuel (Yu-Hsiang)
 
-Glad to have you here, feel free to give me any feedback!
+Glad to have you here! Coding every day 🐱‍💻, keep the bugs away 🐛
 <!--
 **samuelTyh/samueltyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
