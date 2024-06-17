@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Samuel (Yu-Hsiang)
+### Hi there 👋 I'm Samuel (Yu-Hsiang), Data/Ops Engineer
 
 Glad to have you here! Coding every day 🐱‍💻, keep the bugs away 🐛
 <!--
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning DevOps methodology, Rust and Prompt engineering.
-- 😄 I generated my Avatar via [stable Diffusion web](https://stablediffusionweb.com/#ai-image-generator)
+![](https://skillicons.dev/icons?i=py,bash,docker,git,github,aws,gcp,postgres,kafka,rabbitmq,redis,fastapi,postman,neovim,vscode,pycharm&perline=8&theme=light)
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-tseng/)
