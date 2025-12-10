@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://go-skill-icons.vercel.app/api/icons?i=py,bash,docker,git,github,githubactions,aws,gcp,snowflake,postgres,kafka,redis,fastapi,postman,neovim,vscode,pycharm,dbeaver&perline=9&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=py,bash,docker,git,github,githubactions,aws,gcp,snowflake,bigquery,clickhouse,postgres,kafka,redis,pyspark,dbtlabs,airflow,terraform,fastapi,postman,neovim,vscode,zed,pycharm,dbeaver&perline=9&theme=light)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-tseng/)
